@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\bin\Debug\netcoreapp3.1\c#-Assignment.exe
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\bin\Debug\netcoreapp3.1\c#-Assignment.deps.json
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\bin\Debug\netcoreapp3.1\c#-Assignment.runtimeconfig.json
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\bin\Debug\netcoreapp3.1\c#-Assignment.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\bin\Debug\netcoreapp3.1\c#-Assignment.dll
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\bin\Debug\netcoreapp3.1\c#-Assignment.pdb
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\obj\Debug\netcoreapp3.1\c#-Assignment.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\obj\Debug\netcoreapp3.1\c#-Assignment.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\obj\Debug\netcoreapp3.1\c#-Assignment.AssemblyInfo.cs
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\obj\Debug\netcoreapp3.1\c#-Assignment.dll
+C:\Users\PC\Desktop\Open-Projects\c#-Assignment\obj\Debug\netcoreapp3.1\c#-Assignment.pdb
