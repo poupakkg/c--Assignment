@@ -16,10 +16,10 @@ namespace c__Assignment
 
             bool exitRequest = true;
             string fileName = "";
-            int option = 5;
+            int option = 3;
             while (!exitRequest){
                 Console.WriteLine("Make a choice!");
-                option = Console.ReadLine();
+                string makeChoice = Console.ReadLine();
            
             switch(option){                            
             //option 1
