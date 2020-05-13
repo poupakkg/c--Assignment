@@ -61,39 +61,4 @@ namespace c__Assignment
 }
 
     
-            
-
-             // if file is not valid show error message and return user to main menu - Techie Delight
-            /*
-           
-            {
-                Console.WriteLine ( "filename exists" );
-            } 
-            else
-            {
-                Console.WriteLine ( " the filename is not exist, please try again ");
-                 // change user input to blank space or take user to option 1
-            */
-            /*int i = 0;
-            int attemptInput = 0;
-            while (i < 4)
-            {
-                Console.WriteLine( "Please enter your filename: " )
-                string rawInput = Console.ReadLine();
-                int attemptInput;
-                if (!string.TryParse(rawInput, out attemptInput))
-                {
-                    Console.WriteLine ( "the filename is not exist, please try agai" );
-                    continue;
-                }
-                attemptInput < 4;
-                
-            }
-            }*/
-           
-            
-
-
-        }
-    }
-}
+        
